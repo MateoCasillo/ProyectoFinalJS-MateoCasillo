@@ -1,0 +1,28 @@
+*{
+    font-family: "poppins", sans-serif;
+}
+
+#titulo{
+    text-align: center;
+    background-color: aqua;
+}
+
+#eliminarAlumnos{
+    margin-left: 10%;
+}
+
+h3{
+    padding-left: 5%;
+}
+   
+h2{
+    padding-left: 5%;
+}
+
+ul{
+    padding-left: 10%;
+}
+
+form{
+    padding-left: 10%;
+}
